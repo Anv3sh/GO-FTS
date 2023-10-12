@@ -1,1 +1,4 @@
-./*.xml.gz
+*.xml.gz
+*.xml.gz:Zone.Identifier
+*.log
+*.exe
