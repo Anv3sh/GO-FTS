@@ -4,7 +4,7 @@ We are going to search a part of the abstract of English Wikipedia. The latest d
 
 ## Steps to run:
 ```
-go build
+go build -o GO-FTS.exe
 ./GO-FTS
 ```
 
